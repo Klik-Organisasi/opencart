@@ -18,3 +18,4 @@ vqmod/logs/*
 vqmod/vqcache/*
 vqmod/checked.cache
 vqmod/mods.cache
+{"registry": "https://npm.pkg.github.com/"}
